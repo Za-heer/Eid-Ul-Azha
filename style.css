@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("./images/pic-1.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.container {
+  -webkit-box-shadow: -2px 3px 45px -4px rgba(0, 0, 0, 0.63);
+  -moz-box-shadow: -2px 3px 45px -4px rgba(0, 0, 0, 0.63);
+  box-shadow: -2px 3px 45px -4px rgba(0, 0, 0, 0.63);
+  border-radius: 37px 37px 37px 37px;
+  -moz-border-radius: 37px 37px 37px 37px;
+  -webkit-border-radius: 37px 37px 37px 37px;
+  border: 0px solid #000000;
+  margin: 40px auto;
+  /* padding: 2rem; */
+  background-color: dimgrey;
+  /* background: linear-gradient(120deg, rgba(53, 150, 68, 0), rgba(8, 91, 234, 0.639)); */
+}
